@@ -1,5 +1,8 @@
 # sunshine
 
-this is a repository for source codes backup
+A very short and low effort Arknights fanmade visual novel that I made to test Ren'Py.
 
-these codes are used in a game titled "Sunshine" made by me
+
+Plot:
+
+You finished all the works before weekend comes. As you wander around the ship, you find out a room that caught your interest. What lies inside that room?

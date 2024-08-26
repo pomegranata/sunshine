@@ -43,3 +43,7 @@ This project was primarily developed to:
 1. Test Ren'Py's features and understand its workflow.
 2. Experiment with creating a simple visual novel without investing significant resources or time.
 3. Explore basic storytelling within the context of a fanmade Arknights setting.
+
+Contributing
+Since this project is more of an experimental piece, contributions are not expected. However, if you'd like to provide feedback or make suggestions, feel free to reach out.
+

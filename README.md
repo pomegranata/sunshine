@@ -51,4 +51,4 @@ This project was primarily developed to:
 3. Explore basic storytelling within the context of a fanmade Arknights setting.
 
 ## Contributing
-Since this project is more of an experimental piece, contributions are not expected. However, if you'd like to provide feedback or make suggestions, feel free to [reach out](discordapp.com/users/).
+Since this project is more of an experimental piece, contributions are not expected. However, if you'd like to provide feedback or make suggestions, feel free to [reach out](discordapp.com/users/429927466975363102).

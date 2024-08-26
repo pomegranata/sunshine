@@ -2,7 +2,13 @@
 Sunshine is a very short and low-effort fanmade visual novel based on the Arknights universe. This project was created using Ren'Py as a simple test to explore its capabilities and experiment with creating visual novels.
 
 ## Table of Contents
-1. [Plot]()
+1. [Plot](#plot)
+2. [Features](#features)
+3. [Requirements](#requirements)
+4. [Setup Instructions](#setup-instructions)
+5. [Usage](#usage)
+6. [Project Goals](#project-goals)
+7. [Contributing](#contributing)
 
 ## Plot
 You’ve completed all your tasks before the weekend begins. As you wander through the ship, you come across a mysterious room that piques your curiosity. What secrets does this room hold?
@@ -44,6 +50,5 @@ This project was primarily developed to:
 2. Experiment with creating a simple visual novel without investing significant resources or time.
 3. Explore basic storytelling within the context of a fanmade Arknights setting.
 
-Contributing
-Since this project is more of an experimental piece, contributions are not expected. However, if you'd like to provide feedback or make suggestions, feel free to reach out.
-
+## Contributing
+Since this project is more of an experimental piece, contributions are not expected. However, if you'd like to provide feedback or make suggestions, feel free to [reach out](discordapp.com/users/).
